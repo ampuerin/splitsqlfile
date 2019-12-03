@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\C#\split_sql\split_sql\bin\Debug\split_sql.exe.config
+C:\Users\david\Desktop\C#\split_sql\split_sql\bin\Debug\split_sql.exe
+C:\Users\david\Desktop\C#\split_sql\split_sql\bin\Debug\split_sql.pdb
+C:\Users\david\Desktop\C#\split_sql\split_sql\obj\Debug\split_sql.csprojAssemblyReference.cache
+C:\Users\david\Desktop\C#\split_sql\split_sql\obj\Debug\split_sql.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#\split_sql\split_sql\obj\Debug\split_sql.exe
+C:\Users\david\Desktop\C#\split_sql\split_sql\obj\Debug\split_sql.pdb
